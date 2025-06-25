@@ -12,7 +12,7 @@ This project is a machine learning-based finger scanner built with Python. It us
 
 ## 🚀 Demo
 
-> [Optional] Include screenshots or a short GIF showing the finger detection working in real time.
+
 
 ## 🛠️ Tech Stack
 
