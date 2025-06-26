@@ -1,5 +1,5 @@
 
-# Fingers Scanner - Machine Learning Project 🖐️🧠
+# Fingers Scanner - Machine Learning Project 🖐️
 
 This project is a machine learning-based finger scanner built with Python. It uses computer vision techniques to detect and track fingers in real time from webcam video or image inputs.
 
